@@ -41,17 +41,17 @@ input:focus {
   background: #FFF;
   border-bottom: 4px solid #47a3da;
   color: #999;
-  width: 240px;
+  width: 180px;
   height: 100%;
   top: 0;
   z-index: 100;
   position: fixed;
-  left: -240px;
+  left: -180px;
   text-transform: uppercase;
   border-right: 2px solid #eeeff3;
   padding: 0;
   background-color: #354051;
-  line-height: 40px;
+  line-height: 30px;
 }
 
 #top-menu a {
@@ -111,14 +111,14 @@ input:focus {
 }
 
 .menu-push-toright{
-  left: 240px;
+  left: 180px;
 }
 #menu.menu-push-toright{
-  left: 240px;
+  left: 180px;
 }
 
 #quick-search.menu-push-toright{
-  left: 300px;
+  left: 240px;
 }
 
 label[for="q"]{

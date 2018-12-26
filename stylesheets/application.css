@@ -379,6 +379,7 @@ tr.time-entry {
   background-image: url('../images/redmine_logo.png');
   background-size: 200px;
   background-repeat: no-repeat;
+  display: none;
 }
 /*=========== RedmineCRM ======*/
 /* TODO: Find a way rewrite it */
